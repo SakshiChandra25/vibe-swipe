@@ -120,7 +120,7 @@ womens-day
 ### Clone the Repository
 
 ```
-git clone https://github.com/sakshichandra/vibe-swipe.git
+git clone https://github.com/SakshiChandra25/vibe-swipe.git
 ```
 
 ---
